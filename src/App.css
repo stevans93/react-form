@@ -12,6 +12,7 @@ form {
   background-color: white;
   padding: 40px 60px;
   border-radius: 10px;
+  position: relative;
 }
 
 h1 {
